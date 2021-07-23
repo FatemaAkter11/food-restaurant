@@ -1,6 +1,7 @@
 /* common css */
 body{
     font-family: 'Poppins', sans-serif;
+    margin: 0;
 }
 /* header css */
 .nav-item{
